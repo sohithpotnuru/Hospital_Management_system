@@ -11,18 +11,18 @@ Reduce paperwork and manual effort
 This project is built mainly for learning, academic, and practical implementation purposes.
 
 ✨ Features
-👨‍⚕️ Patient Registration & Management
-📅 Appointment Scheduling
-🧑‍⚕️ Doctor & Staff Management
-💊 Medical Records Handling
-💰 Billing & Payment System
-📊 Reports & Analytics
-🔐 Secure Login System
+👨‍⚕️ Patient Registration & Management <br>
+📅 Appointment Scheduling <br>
+🧑‍⚕️ Doctor & Staff Management <br>
+💊 Medical Records Handling <br>
+💰 Billing & Payment System <br>
+📊 Reports & Analytics <br>
+🔐 Secure Login System 
 
 🛠️ Technologies Used
-Programming Language: Python
-Frontend: tkinter(python UI library)
-Tools: VS Code, Git, GitHub
+Programming Language: Python <br>
+Frontend: tkinter(python UI library) <br>
+Tools: VS Code, Git, GitHub 
 
 
 
