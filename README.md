@@ -34,12 +34,25 @@ This project is built mainly for learning, academic, and practical implementatio
 
 
 🔐 Secure Login System
+=======
+👨‍⚕️ Patient Registration & Management <br>
+📅 Appointment Scheduling <br>
+🧑‍⚕️ Doctor & Staff Management <br>
+💊 Medical Records Handling <br>
+💰 Billing & Payment System <br>
+📊 Reports & Analytics <br>
+🔐 Secure Login System 
+
 
 
 
 🛠️ Technologies Used
 
 Programming Language: Python
+=======
+Programming Language: Python <br>
+Frontend: tkinter(python UI library) <br>
+Tools: VS Code, Git, GitHub
 
 
 Frontend: tkinter(python UI library)
